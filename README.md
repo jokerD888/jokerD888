@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jokerD888
-- 👀 I’m interested in C/C++/java/Linux
+- 👀 I’m interested in C/C++,Linux,Algorithm,DS...
 - 🌱 I’m currently learning Linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me for qq of 1783779005
