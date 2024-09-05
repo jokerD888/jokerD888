@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @jokerD888
-- 👀 I’m interested in C/C++,Linux,Algorithm,DS...
-- 🌱 I’m currently learning Linux
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me for qq of 1783779005
+- 👀 I’m interested in AI,Deep learning,C/C++,Linux,Algorithm,DS...
+- 🌱 I’m currently learning Deep learning
+- 📫 How to reach me for email of joker868@126.com
 
 <!---
 jokerD888/jokerD888 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
